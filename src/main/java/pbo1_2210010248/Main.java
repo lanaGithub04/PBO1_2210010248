@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         // Objek Manusia
         Manusia manusia = new Manusia("Alice", 30);
+        Manusia manusia = new Manusia ();
         manusia.info();
         System.out.println();
 
